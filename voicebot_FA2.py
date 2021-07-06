@@ -194,7 +194,7 @@ def assistant(command):
         talkToMe('See you later Take care !')
         sys.exit()
     else:
-            talkToMe('I don\'t know what you mean! I can understand commands like send email, open gmail, open website xyz.com and tell me a joke')
+            talkToMe('I don\'t know about what you mean! I can understand commands like send email, open gmail, open website xyz.com and tell me a joke')
 
 talkToMe('Hey,welcome to your personal account! I\'m your Personal assistant, how can I help you?!')
 B_phase= 'I\'m in building phase of the application, i will provide you details when API of application gets done'
